@@ -16,8 +16,8 @@ virtual world.
   - The right-hand controller selects the object using the right thumbstick with a curve. Grabing and throwing the car  by using right thumbstick (holding to choose the direction, throwing when releasing the thumbstick).
 
 - Hands and skybox are assets from Unity 
-- Online tutorials as references :
-- 
+- Online tutorials as references 
+
 https://www.youtube.com/watch?v=8Xl5s-vTU6I
 
 https://www.youtube.com/watch?v=sKQOlqNe_WY
